@@ -1,0 +1,19 @@
+body{
+    background: #4de2ff;
+
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    color: white;
+}
+
+.repeat{
+    color: antiquewhite;
+}
+h2{
+    color: orangered;
+}
